@@ -13,5 +13,5 @@ This Python script is designed to retrieve Windows Spotlight images and save the
 4. Run the script by executing the following command:
 
    ```bash
-   python spotlight_image_retriever.py
+   python main.py
    ```
